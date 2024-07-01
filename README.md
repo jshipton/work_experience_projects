@@ -16,3 +16,18 @@ Website for weather data: https://www.wxcharts.com
 Some articles on ensemble forecasting:
 * [What is an ensemble forecast](https://www.metoffice.gov.uk/research/weather/ensemble-forecasting/what-is-an-ensemble-forecast)
 * [25 years of ensemble forecasting](https://www.ecmwf.int/en/newsletter/153/meteorology/25-years-ensemble-forecasting-ecmwf)
+
+### Machine learning for subgridscale processes
+
+Watch this online seminar: [Climate modelling in the age of machine learning](https://www.youtube.com/watch?v=bH_A1nvwiDI)
+
+Note down any words or concepts that you're not sure about.
+
+Can you answer these questions?
+
+1. What is a subgridscale process? Can you find some examples?
+2. What is a parametrisation?
+3. Why can't we run models at a higher resolution? How might machine learning help?
+4. What does `interpretability' mean in the context of machine learning?
+5. What is coarse graining?
+6. What are the two approaches to using machine learning in weather and climate prediction that Laure describes? What are the pros and cons of each?
